@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Robel</h1>
+<h1 align="center">Hi, I'm Robel</h1>
 <h3 align="center">Computer Science Student | Aspiring Full Stack Developer | Future Forex Trader</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **JavaScript & React js**  
-- 💡 Skilled in **C++, Python, Java, HTML, CSS, Bootstrap, JavaScript**  
+- 💡 Skilled in **C++, Python, Java And JDBC, HTML, CSS, Bootstrap, JavaScript**  
 - 🚀 Passionate about **Web Development & Finance**  
 - 📫 Reach me at: **devrobel21@gmail.com**  
 
@@ -46,16 +46,3 @@
 
 
 <!--
-**robel-tesfu/robel-tesfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
