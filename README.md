@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Robel</h1>
-<h3 align="center">Computer Science Student | Aspiring Full Stack Developer | Future Forex Trader</h3>
+<h3 align="center">Computer Science Student | Aspiring Full Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **JavaScript & React js**  
-- 💡 Skilled in **C++, Python, Java And JDBC, HTML, CSS, Bootstrap, JavaScript**  
-- 🚀 Passionate about **Web Development & Finance**  
-- 📫 Reach me at: **devrobel21@gmail.com**  
+- 💡 Skilled in **Web development and problem solving**  
+- 🚀 Passionate about **Building and learning new technologies**  
+- 📫 Reach me at: **devrobel27@gmail.com**  
 
 ---
 
