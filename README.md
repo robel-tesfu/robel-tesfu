@@ -26,13 +26,6 @@
 ---
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robel-tesfu&show_icons=true&theme=github_dark" alt="stats" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/Robel Tesfu" target="blank">
