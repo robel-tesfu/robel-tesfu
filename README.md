@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **JavaScript & React js**  
+- 🌱 Currently learning **Backend Development**  
 - 💡 Skilled in **Web development and problem solving**  
 - 🚀 Passionate about **Building and learning new technologies**  
 - 📫 Reach me at: **sys.robel@gmail.com**  
