@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Robel</h1>
-<h3 align="center">Aspiring Full Stack Developer And Computer Science Student</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 ---
 
