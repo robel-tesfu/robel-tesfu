@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Backend Development**  
 - 💡 Skilled in **Web development and problem solving**  
-- 🚀 Passionate about **Building and learning new technologies**  
+- 🚀 Passionate about **Building and learning new technologies every single day**  
 - 📫 Reach me at: **sys.robel@gmail.com**  
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 
-### 🌐 Connect With Me
+### 🌐 Connect Me
 <p align="center">
   <a href="https://linkedin.com/in/Robel Tesfu" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
