@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Robel</h1>
+<h1 align="center">Hey, I'm Robel Tesfu</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Full Stack Development**  
-- 💡 Skilled in **Web development and problem solving**  
+- 💡 Skilled in **UI/UX Design and problem solving**  
 - 🚀 Passionate about **Building and learning new technologies**  
 - 📫 Reach me at: **sys.robel@gmail.com**  
 
