@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Full Stack Development**  
-- 💡 Skilled in **Web development, UI/UX Design and problem solving**  
+- 💡 Skilled in **Web development, UI/UX Design with Figma and problem solving**  
 - 🚀 Passionate about **Building and learning new technologies**  
 - 📫 Reach me at: **sys.robel@gmail.com**  
 
