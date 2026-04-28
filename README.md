@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Robel Tesfu</h1>
+<h1 align="center">Hi, I'm Robel</h1>
 <h3 align="center">Aspiring Full Stack Developer and Computer Science student</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **Full Stack Development**  
+- 🌱 Currently learning **Backend Development**  
 - 💡 Skilled in **Web development, UI/UX Design with Figma and problem solving**  
 - 🚀 Passionate about **Building and learning new technologies**  
 - 📫 Reach me at: **sys.robel@gmail.com**  
