@@ -6,24 +6,6 @@
 </div>
 
 
-
-<!--<div align="center">
-  <!-- Profile Views Counter -->
-  <!--<img src="https://komarev.com/ghpvc/?username=robel-tesfu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <!-- Social Badges -->
-  <!--<a href="https://github.com/robel-tesfu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/robel-tesfu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sys.robel">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 </div>
@@ -45,15 +27,10 @@
           <p>
             🧠 <strong>AI Enthusiast</strong> <br> exploring the intersection of human creativity and machine intelligence to solve real-world problems.
           </p>
-      
+   <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
+
 
 <h2 style="color:#1E90FF; font-size:34px;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="40px"> 
@@ -100,6 +77,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
         <br>
         <strong><sub>HTML5</sub></strong>
+        <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+        <br>
+        <strong><sub>CSS3</sub></strong>
+      </td>
       </td>
     </tr>
   </table>
@@ -109,20 +91,15 @@
   <table>
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
-        <br>
-        <strong><sub>CSS3</sub></strong>
-      </td>
-      <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
         <br>
         <strong><sub>MySQL</sub></strong>
       </td>
       <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL" width="55" height="55" />
-        <br>
-        <strong><sub>SQL</sub></strong>
-      </td>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="55" height="55" />
+  <br>
+  <strong><sub>SQL</sub></strong>
+</td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
         <br>
@@ -133,15 +110,10 @@
         <br>
         <strong><sub>MongoDB</sub></strong>
       </td>
-      <td align="center" width="110">
+  <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="55" height="55" />
         <br>
         <strong><sub>SQLite</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
-        <br>
-        <strong><sub>Redis</sub></strong>
       </td>
     </tr>
   </table>
@@ -159,7 +131,7 @@
 <br/>
 
 <!-- Frontend & Backend Combined -->
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="110">
@@ -168,14 +140,9 @@
         <strong><sub>React</sub></strong>
       </td>
       <td align="center" width="110">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
-  <br>
-  <strong><sub>Next.js</sub></strong>
-</td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
         <br>
-        <strong><sub>Vue.js</sub></strong>
+        <strong><sub>Next.js</sub></strong>
       </td>
       <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
@@ -188,41 +155,28 @@
         <strong><sub>TailwindCSS</sub></strong>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="55" height="55" />
-        <br>
-        <strong><sub>MUI</sub></strong>
-      </td>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" />
         <br>
         <strong><sub>Bootstrap</sub></strong>
       </td>
     </tr>
   </table>
+</div>
 
   <br/>
   
+<div align="center">
   <table>
     <tr>
       <td align="center" width="110">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
-  <br>
-  <strong><sub>Node.js</sub></strong>
-</td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+        <br>
+        <strong><sub>Node.js</sub></strong>
+      </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55" />
         <br>
         <strong><sub>Express.js</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
-        <br>
-        <strong><sub>Django</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="55" height="55" />
-        <br>
-        <strong><sub>Flask</sub></strong>
       </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
@@ -246,10 +200,10 @@
 <br/>
 
 <!-- AI/ML Section -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFjb7Wh/giphy.gif" width="30px" height="30px">
+<h2 align="left">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="35px" height="35px">
   AI & Machine Learning
-</h3>
+</h2>
 
 <div align="left">
   <table>
@@ -258,16 +212,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55" />
         <br>
         <strong><sub>TensorFlow</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" height="55" />
-        <br>
-        <strong><sub>PyTorch</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="55" height="55" />
-        <br>
-        <strong><sub>OpenCV</sub></strong>
       </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" />
@@ -284,23 +228,15 @@
         <br>
         <strong><sub>Scikit-learn</sub></strong>
       </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="55" height="55" />
-        <br>
-        <strong><sub>Hugging Face</sub></strong>
-      </td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
 <!-- Tools & Platforms -->
-<h2 align="center">
+<h2>
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px">
   Tools & Platforms
 </h2>
@@ -311,24 +247,9 @@
   <table>
     <tr>
       <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
         <br>
-        <strong><sub>Docker</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
-        <br>
-        <strong><sub>Kubernetes</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-        <br>
-        <strong><sub>AWS</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="55" height="55" />
-        <br>
-        <strong><sub>GCP</sub></strong>
+        <strong><sub>VS Code</sub></strong>
       </td>
       <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
@@ -341,9 +262,9 @@
         <strong><sub>Git</sub></strong>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
         <br>
-        <strong><sub>Linux</sub></strong>
+        <strong><sub>Docker</sub></strong>
       </td>
     </tr>
   </table>
@@ -358,11 +279,6 @@
         <strong><sub>Figma</sub></strong>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
-        <br>
-        <strong><sub>VS Code</sub></strong>
-      </td>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" />
         <br>
         <strong><sub>Postman</sub></strong>
@@ -373,19 +289,9 @@
         <strong><sub>Nginx</sub></strong>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="55" height="55" />
-        <br>
-        <strong><sub>Jenkins</sub></strong>
-      </td>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="55" height="55" />
         <br>
         <strong><sub>Bash</sub></strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="55" height="55" />
-        <br>
-        <strong><sub>Prometheus</sub></strong>
       </td>
     </tr>
   </table>
@@ -393,86 +299,8 @@
 
 <br/>
 
-<!-- Compact Badge View -->
-<div align="center">
-  <details>
-    <summary>
-      <strong>📱 View as Badges</strong>
-    </summary>
-    <br/>
-    <p>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    </p>
-  </details>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
 
-
-
-
-
-
-
-<!-- Current Learning -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9s1RHRju/giphy.gif" width="35px" height="35px">
-  Currently Learning
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
-
-<!-- Projects Showcase -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px">
-  Featured Projects
-</h2>
-
-<div align="center">
-  <a href="https://github.com/robel-tesfu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robel-tesfu&repo=robel-tesfu&theme=react&hide_border=true&bg_color=0D1117" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/robel-tesfu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robel-tesfu&repo=robel-tesfu&theme=react&hide_border=true&bg_color=0D1117" alt="Project 2"/>
-  </a>
-</div>
-
-<div align="center">
-  <i>💡 Currently working on exciting new projects. Stay tuned!</i>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
 <!-- GitHub Stats -->
 <h2>
@@ -497,23 +325,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 </div>
 
-<!-- Contribution Snake Animation -->
-<h2>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="35px" height="35px">
-  Contribution Graph
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robel-tesfu/robel-tesfu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robel-tesfu/robel-tesfu/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/robel-tesfu/robel-tesfu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
 <!-- Contact Section -->
 <h2>
