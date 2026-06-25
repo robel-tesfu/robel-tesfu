@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</div>
+
+<div align="center">
   <!-- Animated Header Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey!+I'm+Robel+Tesfu" alt="Typing SVG" />
@@ -326,182 +330,74 @@
 </div>
 
 
+
 <!-- Contact Section -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" height="35px">
   Let's Connect
 </h2>
 
+<br/>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/robel-tesfu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sys.robel">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/robel-tesfu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://www.linkedin.com/in/robel-tesfu">
+          <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="60" height="60"/>
+          <br/>
+          <strong><sub>LinkedIn</sub></strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="mailto:sys.robel">
+          <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email" width="60" height="60"/>
+          <br/>
+          <strong><sub>Email</sub></strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/robel-tesfu">
+          <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="60" height="60"/>
+          <br/>
+          <strong><sub>GitHub</sub></strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://twitter.com/">
+          <img src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" width="60" height="60"/>
+          <br/>
+          <strong><sub>Twitter</sub></strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://discord.com/">
+          <img src="https://img.icons8.com/fluency/96/discord-logo.png" alt="Discord" width="60" height="60"/>
+          <br/>
+          <strong><sub>Discord</sub></strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
+<!-- Animated Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600px"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
 
 <!-- Footer -->
 <div align="center">
-  <h4>🚀 Thanks for visiting! Let's build something amazing together.</h4>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:4B0082&height=100&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave"/>
+  <img src="https://komarev.com/ghpvc/?username=robel-tesfu&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+  <br/>
+  <sub>⭐️ From <strong>Robel Tesfu</strong> with passion & code</sub>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-  <span>About Me</span>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="center">
-        <br/>
-        <div align="center">
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
-          </a>
-        </div>
-        <br/>
-        <div align="left">
-          <p>
-            🚀 <strong>Full-Stack Developer</strong> passionate about crafting seamless digital experiences from the front-end finesse to the back-end architecture.
-          </p>
-          <p>
-            🧠 <strong>AI Enthusiast</strong> exploring the intersection of human creativity and machine intelligence to solve real-world problems.
-          </p>
-          <p>
-            ⭐ <strong>2025 Goal:</strong> Contribute to open-source AI projects and launch a SaaS product.
-          </p>
-          <p>
-            🎉 <strong>Fun fact:</strong> I debug with rubber ducks and a strong cup of Ethiopian coffee ☕
-          </p>
-        </div>
-        <br/>
-        <div align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=robel-tesfu&theme=algolia&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <!-- Modern Developer Illustration -->
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Animation" style="border-radius: 20px;"/>
-        <br/><br/>
-        <!-- AI/Technology Animation -->
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400px" alt="Developer Animation" style="border-radius: 20px;"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <details>
-    <summary>
-      <strong>👀 More About My Journey</strong>
-    </summary>
-    <br/>
-    <div align="left">
-      <p>
-        🎓 <strong>Background:</strong> I started my journey in software development with a curiosity about how things work on the web. That curiosity evolved into a passion for building full-stack applications.
-      </p>
-      <p>
-        💡 <strong>Philosophy:</strong> I believe in writing clean, scalable code that solves real problems. Every line of code should serve a purpose and bring value.
-      </p>
-      <p>
-        🔍 <strong>Currently:</strong> Diving deep into cloud-native architectures, distributed systems, and advanced AI/ML models. Always learning, always building.
-      </p>
-    </div>
-  </details>
-</div>
-
-<br/>
-
-<!-- Animated Skill Bars -->
-<div align="center">
-  <h3>
-    📊 Current Focus Areas
-  </h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px" alt="Web Dev"/>
-        <br/>
-        <strong>Web Dev</strong>
-        <br/>
-        <img src="https://progress-bar.dev/95/?title=&width=120&color=58A6FF&bg=1D1D1D" alt="95%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80px" alt="AI/ML"/>
-        <br/>
-        <strong>AI/ML</strong>
-        <br/>
-        <img src="https://progress-bar.dev/80/?title=&width=120&color=8B5CF6&bg=1D1D1D" alt="80%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="80px" alt="Cloud"/>
-        <br/>
-        <strong>Cloud</strong>
-        <br/>
-        <img src="https://progress-bar.dev/70/?title=&width=120&color=F8D866&bg=1D1D1D" alt="70%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80px" alt="DevOps"/>
-        <br/>
-        <strong>DevOps</strong>
-        <br/>
-        <img src="https://progress-bar.dev/65/?title=&width=120&color=FF6B6B&bg=1D1D1D" alt="65%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 </div>
