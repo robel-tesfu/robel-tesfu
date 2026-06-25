@@ -1,16 +1,15 @@
 <div align="center">
   <!-- Animated Header Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Robel+Tesfu;Full-Stack+Developer;AI+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey!+I'm+Robel+Tesfu" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=robel-tesfu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
+  <!--<img src="https://komarev.com/ghpvc/?username=robel-tesfu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <!-- Social Badges -->
-  <a href="https://github.com/robel-tesfu">
+  <!--<a href="https://github.com/robel-tesfu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/robel-tesfu">
@@ -238,13 +237,6 @@
 
 
 
-
-
-
-
-
-
-
 <!-- About Me Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
@@ -252,7 +244,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-  <span style="background: linear-gradient(to right, #58A6FF, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About Me</span>
+  <span>About Me</span>
 </h2>
 
 <div align="center">
@@ -266,22 +258,18 @@
           </a>
         </div>
         <br/>
-        <div align="left" style="font-size: 16px; line-height: 1.8;">
+        <div align="left">
           <p>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Rocket.png" alt="Rocket" width="25" height="25" align="center"/>
-            <strong style="font-size: 18px; color: #58A6FF;">Full-Stack Developer</strong> passionate about crafting seamless digital experiences from the front-end finesse to the back-end architecture.
+            🚀 <strong>Full-Stack Developer</strong> passionate about crafting seamless digital experiences from the front-end finesse to the back-end architecture.
           </p>
           <p>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" height="25" align="center"/>
-            <strong style="font-size: 18px; color: #8B5CF6;">AI Enthusiast</strong> exploring the intersection of human creativity and machine intelligence to solve real-world problems.
+            🧠 <strong>AI Enthusiast</strong> exploring the intersection of human creativity and machine intelligence to solve real-world problems.
           </p>
           <p>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" align="center"/>
-            <strong style="font-size: 18px; color: #F8D866;">2025 Goal:</strong> Contribute to open-source AI projects and launch a SaaS product.
+            ⭐ <strong>2025 Goal:</strong> Contribute to open-source AI projects and launch a SaaS product.
           </p>
           <p>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="25" height="25" align="center"/>
-            <strong style="font-size: 18px; color: #FF6B6B;">Fun fact:</strong> I debug with rubber ducks and a strong cup of Ethiopian coffee ☕
+            🎉 <strong>Fun fact:</strong> I debug with rubber ducks and a strong cup of Ethiopian coffee ☕
           </p>
         </div>
         <br/>
@@ -290,9 +278,11 @@
         </div>
       </td>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0eDJ4eHZsZDl5MmN1M2JkY2c0Nmhsdndlbm1vZHB4MmZtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF" style="border-radius: 20px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);"/>
+        <!-- Modern Developer Illustration -->
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Animation" style="border-radius: 20px;"/>
         <br/><br/>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJzMXNyMGp1M2lzODh3eDZiMmRiN2FxcmM0M3VsOGM1N3RjdW03aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400px" alt="AI Animation" style="border-radius: 20px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);"/>
+        <!-- AI/Technology Animation -->
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400px" alt="Developer Animation" style="border-radius: 20px;"/>
       </td>
     </tr>
   </table>
@@ -302,23 +292,19 @@
 
 <div align="center">
   <details>
-    <summary style="font-size: 18px; font-weight: bold; color: #58A6FF; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" align="center"/>
-      <strong>📖 More About My Journey</strong>
+    <summary>
+      <strong>👀 More About My Journey</strong>
     </summary>
     <br/>
-    <div align="left" style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #30363D; border-radius: 15px; padding: 20px; margin: 10px 0;">
-      <p style="font-size: 16px; color: #C9D1D9;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="20" height="20" align="center"/>
-        <strong style="color: #58A6FF; font-size: 17px;"> Background:</strong> I started my journey in software development with a curiosity about how things work on the web. That curiosity evolved into a passion for building full-stack applications.
+    <div align="left">
+      <p>
+        🎓 <strong>Background:</strong> I started my journey in software development with a curiosity about how things work on the web. That curiosity evolved into a passion for building full-stack applications.
       </p>
-      <p style="font-size: 16px; color: #C9D1D9;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" align="center"/>
-        <strong style="color: #8B5CF6; font-size: 17px;"> Philosophy:</strong> I believe in writing clean, scalable code that solves real problems. Every line of code should serve a purpose and bring value.
+      <p>
+        💡 <strong>Philosophy:</strong> I believe in writing clean, scalable code that solves real problems. Every line of code should serve a purpose and bring value.
       </p>
-      <p style="font-size: 16px; color: #C9D1D9;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" align="center"/>
-        <strong style="color: #F8D866; font-size: 17px;"> Currently:</strong> Diving deep into cloud-native architectures, distributed systems, and advanced AI/ML models. Always learning, always building.
+      <p>
+        🔍 <strong>Currently:</strong> Diving deep into cloud-native architectures, distributed systems, and advanced AI/ML models. Always learning, always building.
       </p>
     </div>
   </details>
@@ -328,38 +314,37 @@
 
 <!-- Animated Skill Bars -->
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 20px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" align="center"/>
-    Current Focus Areas
+  <h3>
+    📊 Current Focus Areas
   </h3>
   
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80px" alt="Web Dev"/>
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px" alt="Web Dev"/>
         <br/>
-        <strong style="color: #58A6FF;">Web Dev</strong>
+        <strong>Web Dev</strong>
         <br/>
         <img src="https://progress-bar.dev/95/?title=&width=120&color=58A6FF&bg=1D1D1D" alt="95%"/>
       </td>
       <td align="center" width="150">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4aW9yNjg3bnQyYXBkMmVkcXlrM3Bwbmh2dTcxM2x1bmhnY21xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="80px" alt="AI/ML"/>
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80px" alt="AI/ML"/>
         <br/>
-        <strong style="color: #8B5CF6;">AI/ML</strong>
+        <strong>AI/ML</strong>
         <br/>
         <img src="https://progress-bar.dev/80/?title=&width=120&color=8B5CF6&bg=1D1D1D" alt="80%"/>
       </td>
       <td align="center" width="150">
         <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="80px" alt="Cloud"/>
         <br/>
-        <strong style="color: #F8D866;">Cloud</strong>
+        <strong>Cloud</strong>
         <br/>
         <img src="https://progress-bar.dev/70/?title=&width=120&color=F8D866&bg=1D1D1D" alt="70%"/>
       </td>
       <td align="center" width="150">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px" alt="DevOps"/>
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80px" alt="DevOps"/>
         <br/>
-        <strong style="color: #FF6B6B;">DevOps</strong>
+        <strong>DevOps</strong>
         <br/>
         <img src="https://progress-bar.dev/65/?title=&width=120&color=FF6B6B&bg=1D1D1D" alt="65%"/>
       </td>
