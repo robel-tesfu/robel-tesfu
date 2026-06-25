@@ -1,9 +1,11 @@
 <div align="center">
   <!-- Animated Header Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey!+I'm+Robel+Tesfu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey!+I'm+Robel+Tesfu" alt="Typing SVG" />
   </a>
 </div>
+
+
 
 <!--<div align="center">
   <!-- Profile Views Counter -->
@@ -27,8 +29,8 @@
 </div>
 
 <!-- About Me Section -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> 
+<h2 style="color:#1E90FF; font-size:34px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="40px"> 
   About Me
 </h2>
 
@@ -36,66 +38,396 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
-<p align="left">
-  🚀 Full-Stack Developer passionate about crafting seamless digital experiences from the front-end finesse to the back-end architecture.
-  <br><br>
-  🧠 AI Enthusiast exploring the intersection of human creativity and machine intelligence to solve real-world problems.
-  <br><br>
-  🌱 Currently diving deep into cloud-native technologies and advanced AI/ML models.
-  <br><br>
-  💡 I believe in writing clean, efficient, and scalable code that makes a difference.
-  <br><br>
-  🎯 2025 Goals: Contribute to open-source AI projects and build a SaaS product from scratch.
-  <br><br>
-  ⚡ Fun fact: I debug with rubber ducks and a strong cup of Ethiopian coffee.
-</p>
-
-<br clear="both"/>
+ <div align="left">
+          <p>
+            🚀 <strong>Full-Stack Developer</strong> <br> passionate about crafting seamless digital experiences from the front-end finesse to the back-end architecture.
+          </p>
+          <p>
+            🧠 <strong>AI Enthusiast</strong> <br> exploring the intersection of human creativity and machine intelligence to solve real-world problems.
+          </p>
+      
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 </div>
 
-<!-- Skills & Technologies -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px">
-  Skills & Technologies
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</div>
+
+<h2 style="color:#1E90FF; font-size:34px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="40px"> 
+  Language & Libraries
 </h2>
 
-<h3>🧠 Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+<br/>
 
-<h3>⚛️ Frameworks & Libraries</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-</p>
+<!-- Programming Languages -->
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+        <br>
+        <strong><sub>Python</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+        <br>
+        <strong><sub>JavaScript</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+        <br>
+        <strong><sub>TypeScript</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+        <br>
+        <strong><sub>Java</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+        <br>
+        <strong><sub>C++</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
+        <br>
+        <strong><sub>PHP</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
+        <br>
+        <strong><sub>HTML5</sub></strong>
+      </td>
+    </tr>
+  </table>
 
-<h3>☁️ Tools & Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-</p>
+  <br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+        <br>
+        <strong><sub>CSS3</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+        <br>
+        <strong><sub>MySQL</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL" width="55" height="55" />
+        <br>
+        <strong><sub>SQL</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
+        <br>
+        <strong><sub>PostgreSQL</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+        <br>
+        <strong><sub>MongoDB</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="55" height="55" />
+        <br>
+        <strong><sub>SQLite</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
+        <br>
+        <strong><sub>Redis</sub></strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+
+
+<h2>
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35px" height="35px">
+  Frameworks & Libraries
+</h2>
+
+<br/>
+
+<!-- Frontend & Backend Combined -->
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+        <br>
+        <strong><sub>React</sub></strong>
+      </td>
+      <td align="center" width="110">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
+  <br>
+  <strong><sub>Next.js</sub></strong>
+</td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="55" height="55" />
+        <br>
+        <strong><sub>Vue.js</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
+        <br>
+        <strong><sub>Redux</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="55" height="55" />
+        <br>
+        <strong><sub>TailwindCSS</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="55" height="55" />
+        <br>
+        <strong><sub>MUI</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" />
+        <br>
+        <strong><sub>Bootstrap</sub></strong>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="110">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+  <br>
+  <strong><sub>Node.js</sub></strong>
+</td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55" />
+        <br>
+        <strong><sub>Express.js</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+        <br>
+        <strong><sub>Django</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="55" height="55" />
+        <br>
+        <strong><sub>Flask</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
+        <br>
+        <strong><sub>FastAPI</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
+        <br>
+        <strong><sub>GraphQL</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+        <br>
+        <strong><sub>REST API</sub></strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- AI/ML Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFjb7Wh/giphy.gif" width="30px" height="30px">
+  AI & Machine Learning
+</h3>
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55" />
+        <br>
+        <strong><sub>TensorFlow</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" height="55" />
+        <br>
+        <strong><sub>PyTorch</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="55" height="55" />
+        <br>
+        <strong><sub>OpenCV</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" />
+        <br>
+        <strong><sub>Pandas</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55" />
+        <br>
+        <strong><sub>NumPy</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="55" height="55" />
+        <br>
+        <strong><sub>Scikit-learn</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="55" height="55" />
+        <br>
+        <strong><sub>Hugging Face</sub></strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 </div>
+
+<!-- Tools & Platforms -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px">
+  Tools & Platforms
+</h2>
+
+<br/>
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+        <br>
+        <strong><sub>Docker</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+        <br>
+        <strong><sub>Kubernetes</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+        <br>
+        <strong><sub>AWS</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="55" height="55" />
+        <br>
+        <strong><sub>GCP</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+        <br>
+        <strong><sub>GitHub</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" />
+        <br>
+        <strong><sub>Git</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+        <br>
+        <strong><sub>Linux</sub></strong>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" />
+        <br>
+        <strong><sub>Figma</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
+        <br>
+        <strong><sub>VS Code</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" />
+        <br>
+        <strong><sub>Postman</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+        <br>
+        <strong><sub>Nginx</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="55" height="55" />
+        <br>
+        <strong><sub>Jenkins</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="55" height="55" />
+        <br>
+        <strong><sub>Bash</sub></strong>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="55" height="55" />
+        <br>
+        <strong><sub>Prometheus</sub></strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Compact Badge View -->
+<div align="center">
+  <details>
+    <summary>
+      <strong>📱 View as Badges</strong>
+    </summary>
+    <br/>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </p>
+  </details>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</div>
+
+
+
+
+
+
+
 
 <!-- Current Learning -->
 <h2>
@@ -222,6 +554,12 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:4B0082&height=100&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave"/>
 </div>
+
+
+
+
+
+
 
 
 
