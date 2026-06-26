@@ -371,12 +371,12 @@
   </a>
 </td>
       <td align="center" width="150">
-        <a href="https://discord.com/">
-          <img src="https://img.icons8.com/fluency/96/discord-logo.png" alt="Discord" width="60" height="60"/>
-          <br/>
-          <strong><sub>Discord</sub></strong>
-        </a>
-      </td>
+  <a href="https://wa.me/251912345678?text=Hi%20Robel!%20I%20found%20you%20on%20GitHub.">
+    <img src="https://img.icons8.com/fluency/96/whatsapp.png" alt="WhatsApp" width="60" height="60"/>
+    <br/>
+    <strong><sub>WhatsApp</sub></strong>
+  </a>
+</td>
     </tr>
   </table>
 </div>
