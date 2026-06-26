@@ -364,12 +364,12 @@
         </a>
       </td>
       <td align="center" width="150">
-        <a href="https://twitter.com/">
-          <img src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" width="60" height="60"/>
-          <br/>
-          <strong><sub>Twitter</sub></strong>
-        </a>
-      </td>
+  <a href="https://twitter.com/robel_nx">
+    <img src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" width="60" height="60"/>
+    <br/>
+    <strong><sub>Twitter</sub></strong>
+  </a>
+</td>
       <td align="center" width="150">
         <a href="https://discord.com/">
           <img src="https://img.icons8.com/fluency/96/discord-logo.png" alt="Discord" width="60" height="60"/>
